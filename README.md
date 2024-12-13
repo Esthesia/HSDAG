@@ -56,7 +56,7 @@ To use the **Placeto baseline**:
 
 
 
-To run our approach, HSDAG:
+To run our approach, **HSDAG**:
 1. Provide the location of your XML file in config.py.
 2. Run the **main.py** script with the appropriate input parameters for your experiment.
 
@@ -71,7 +71,7 @@ Notes:
 * [USC Viterbi school](https://viterbischool.usc.edu/news/2024/12/usc-at-the-conference-on-neural-information-processing-systems-neurips-2024/)
 * [Intel labs](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-Presents-Novel-AI-Research-at-NeurIPS-2024/post/1648522)
 * [Cisco outshift](https://outshift.cisco.com/blog/leadership-in-ai-research-9-papers-accepted-neurips)
-* [Papers with codee](https://paperswithcode.com/paper/a-structure-aware-framework-for-learning)
+* [Papers with code](https://paperswithcode.com/paper/a-structure-aware-framework-for-learning)
 
 ## Bibliography
 
