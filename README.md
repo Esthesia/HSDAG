@@ -67,7 +67,7 @@ Notes:
 
 
 ## Blogs
-
+* [Meta](https://ai.meta.com/research/publications/a-structure-aware-framework-for-learning-device-placements-on-computation-graphs/)
 * [USC Viterbi school](https://viterbischool.usc.edu/news/2024/12/usc-at-the-conference-on-neural-information-processing-systems-neurips-2024/)
 * [Intel labs](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-Presents-Novel-AI-Research-at-NeurIPS-2024/post/1648522)
 * [Cisco outshift](https://outshift.cisco.com/blog/leadership-in-ai-research-9-papers-accepted-neurips)
