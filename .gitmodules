@@ -1,0 +1,3 @@
+[submodule "generalizable-device-placement"]
+	path = generalizable-device-placement
+	url = git@github.com:Esthesia/generalizable-device-placement.git
